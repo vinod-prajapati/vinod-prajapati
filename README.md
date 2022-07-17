@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinod-prajapati
 - 👀 I’m interested in learning new things about computer
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
